@@ -2,6 +2,8 @@
 
 > Source: https://openai.com/index/introducing-gpt-5-3-codex/
 
+![Benchmark Chart](images/benchmark-chart.webp)
+
 We're introducing a new model that unlocks even more of what Codex can do: GPT‑5.3-Codex, the most capable agentic coding model to date. The model advances both the frontier coding performance of GPT‑5.2-Codex and the reasoning and professional knowledge capabilities of GPT‑5.2, together in one model, which is also 25% faster. This enables it to take on long-running tasks that involve research, tool use, and complex execution. Much like a colleague, you can steer and interact with GPT‑5.3-Codex while it's working, without losing context.
 
 GPT‑5.3‑Codex is our first model that was instrumental in creating itself. The Codex team used early versions to debug its own training, manage its own deployment, and diagnose test results and evaluations—our team was blown away by how much Codex was able to accelerate its own development.
@@ -71,6 +73,14 @@ GPT‑5.3-Codex was co-designed for, trained with, and served on NVIDIA GB200 NV
 ## What's next
 
 With GPT‑5.3-Codex, Codex is moving beyond writing code to using it as a tool to operate a computer and complete work end to end. By pushing the frontier of what a coding agent can do, we're also unlocking a broader class of knowledge work—from building and deploying software to researching, analyzing, and executing complex tasks. What started as a focus on being the best coding agent has become the foundation for a more general collaborator on the computer, expanding both who can build and what's possible with Codex.
+
+## Related Images
+
+![System Card Art](images/system-card-art.webp)
+
+![Codex Landing Page](images/codex-landing-page.webp)
+
+![GPT-5.2 Codex Art Card](images/gpt-5.2-codex-artcard.webp)
 
 ## Benchmark Results
 
